@@ -97,7 +97,7 @@ Nuove issue e PR sono create ogni gorno per tenere freschi i contenuti. Ma ci pi
 
 <br/><br/><br/>
 
-<p align="right"><a href="#table-of-contents">⬆ Return to top</a></p>
+<p align="right"><a href="#table-of-contents">⬆ Torna in alto</a></p>
 
 # `2. Error Handling Practices`
 
@@ -211,7 +211,7 @@ Nuove issue e PR sono create ogni gorno per tenere freschi i contenuti. Ma ci pi
 
 <br/><br/><br/>
 
-<p align="right"><a href="#table-of-contents">⬆ Return to top</a></p>
+<p align="right"><a href="#table-of-contents">⬆ Torna in alto</a></p>
 
 # `3. Code Style Practices`
 
@@ -400,7 +400,7 @@ All statements above will return false if used with `===`
 
 <br/><br/><br/>
 
-<p align="right"><a href="#table-of-contents">⬆ Return to top</a></p>
+<p align="right"><a href="#table-of-contents">⬆ Torna in alto</a></p>
 
 # `4. Testing And Overall Quality Practices`
 
@@ -480,7 +480,7 @@ All statements above will return false if used with `===`
 
 <br/><br/><br/>
 
-<p align="right"><a href="#table-of-contents">⬆ Return to top</a></p>
+<p align="right"><a href="#table-of-contents">⬆ Torna in alto</a></p>
 
 # `5. Going To Production Practices`
 
@@ -662,7 +662,7 @@ All statements above will return false if used with `===`
 
 <br/><br/><br/>
 
-<p align="right"><a href="#table-of-contents">⬆ Return to top</a></p>
+<p align="right"><a href="#table-of-contents">⬆ Torna in alto</a></p>
 
 # `6. Security Best Practices`
 
@@ -950,7 +950,7 @@ All statements above will return false if used with `===`
 
 <br/><br/><br/>
 
-<p align="right"><a href="#table-of-contents">⬆ Return to top</a></p>
+<p align="right"><a href="#table-of-contents">⬆ Torna in alto</a></p>
 
 # `7. Performance Best Practices`
 
