@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/⚙%20Item%20count%20-%2079%20Best%20practices-blue.svg" alt="79 contenuti"> <img src="https://img.shields.io/badge/%F0%9F%93%85%20Last%20update%20-%20Dec%2015%202018-green.svg" alt="Ultimo Aggiornamento: 15 Dicembre, 2018"> <img src="https://img.shields.io/badge/%E2%9C%94%20Updated%20For%20Version%20-%20Node%2010.13.0%20LTS-brightgreen.svg" alt="Aggiornato per Node 10.14.2 LTS">
+  <img src="https://img.shields.io/badge/⚙%20Contenuti%20-%2079%20Best%20practices-blue.svg" alt="79 contenuti"> <img src="https://img.shields.io/badge/%F0%9F%93%85%20Ultimo%20aggiornamento%20-%2015%20Dicembre%202018-green.svg" alt="Ultimo Aggiornamento: 15 Dicembre, 2018"> <img src="https://img.shields.io/badge/%E2%9C%94%20Aggioranto%20per%20Node%2010.13.0%20LTS-brightgreen.svg" alt="Aggiornato per Node 10.14.2 LTS">
 </div>
 
 <br/>
